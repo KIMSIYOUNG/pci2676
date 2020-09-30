@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hi there 👋  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pci2676&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+## About me 🤠
+
+- 🔭 I’m currently working on `@woowacourse`
+- 🌱 I’m currently learning `Spring Boot`
+- ⚡ Tmi: `Call me Bebop`
+
+### Here is my [resume](https://pci2676.github.io/)! 🖥
 <!--
 **pci2676/pci2676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
